@@ -1,4 +1,4 @@
-# Unified Super-Resolution in PyTorch
+# Unified Super-Resolution in PyTorch  用在CT 修改了参数
 <img style="float: right;" src="https://github.com/brudfors/UniRes/blob/master/figures/example_2.png" width="100%" height="100%"> 
 
 This repository implements a unified model for super-resolving medical images (MRI and CT scans), which combines: super-resolution with a multi-channel denoising 
